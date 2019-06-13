@@ -1,6 +1,6 @@
 # 데이터베이스
 
-* [인덱스(Index)](#인덱스(Index)란?)
+* [인덱스(Index)](#인덱스index)
 	* 인덱스(Index)란?  
 
 # 인덱스(Index)
